@@ -193,6 +193,9 @@
         <mxCell id="js0OEBVT8dzRXaIVX1Cu-15" value="Load Balancer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="291" y="92" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="js0OEBVT8dzRXaIVX1Cu-17" value="dms" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="99" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
