@@ -187,6 +187,12 @@
         <mxCell id="js0OEBVT8dzRXaIVX1Cu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.073;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2V6AKpVLjlMyQVjp0-8h-1" target="js0OEBVT8dzRXaIVX1Cu-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="js0OEBVT8dzRXaIVX1Cu-14" value="API GW" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="213" y="172" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="js0OEBVT8dzRXaIVX1Cu-15" value="Load Balancer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="291" y="92" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
